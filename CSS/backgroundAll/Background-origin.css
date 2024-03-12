@@ -1,0 +1,26 @@
+#example1 {
+    border: 10px dashed black;
+    padding: 25px;
+    background: url(../Icon/สุคุนะใจเกเร.jpg);
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+
+#example2 {
+    border: 10px dashed black;
+    padding: 25px;
+    background: url(../Icon/อะโว้วอู้ววว.jpg);
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+
+#example3 {
+    border: 10px dashed black;
+    padding: 25px;
+    background: url(../Icon/ฟอลเรนเกเร.jpg);
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}

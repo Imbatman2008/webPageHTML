@@ -1,0 +1,117 @@
+// const lyrics_warOfChange = [
+//     "it's a truth that in love and war",
+//     "Worlds collide and hearts get broken",
+//     "I want to live like I know i'm dying",
+//     "Take Up my cross, not be Afraid",
+//     "is it Ture what they say that words are weapons? And if it is",
+//     "Then Everybody base stop stepping",
+//     "Cause I got ten in my pocket thai'll  bend ya locket",
+//     "i'm tired of all these fockers saying, 'Come with me' ",
+//     "Wait, it's Just about to break",
+//     "it's more than I can take",
+//     "Everyting's about to chage",
+//     "i feel it in my veins",
+//     "it's not going away",
+//     "Everything's about to chage",
+//     "it creeps in like a thief in the night",
+//     "without a sign, without a waring",
+//     "But we are ready and prepared to fight",
+//     "Raise up your swords, don't be afraid",
+//     "is it true what they say, that words are weapons? And if it is",
+//     "Then everybody best stop steping",
+//     "'Cause I got ten in My pocket that'll bend ya locket",
+//     "i'm tired of all these rockers saying, 'Come with me'",
+//     "Wait, it's just about to break",
+//     "is's more than I can take",
+//     "Everything's about to change",
+//     "I feel it in my veins",
+//     "it's not going away",
+//     "Everything's about to change",
+//     "This is a warning, like it or not I break down, like a record spinning",
+//     "Gotta get up",
+//     "So back Off",
+//     "this is a warning, like it or not",
+//     "i'm Tired of listening, i'm warning you, don't try to get up",
+//     "There's a war going on inside of me tonight (Don;t be afraid)",
+//     "There's a war going on inside of me tonight (Don;t be afraid)",
+//     "Wait, it's just about to break",
+//     "it's more than I can take",
+//     "Everything's about to change",
+//     "I feel it in my veins",
+//     "It's not going away",
+//     "Everyting's about to change",
+//     "I fell it in my veins",
+//     "it's not going away",
+//     "Everything's about to change",
+//     "^",
+//     "Oh, oh, oh",
+//     "Oh, oh, oh",
+//     "Oh, oh, oh",
+//     "Oh, oh, oh",
+//     "Oh, oh, oh",
+// ]
+
+type Array
+
+[ เนื้อเพลง ]
+
+ “ กาลครั้งหนึ่ง หนังสือเล่มหนึ่งมีชื่อว่าฉัน
+บทหนึ่งบทในนั้น มีผู้ประพันธ์คือฉันและเธอ
+เนื้อความข้างในได้กล่าว ว่าข้าพเจ้าจะรักเสมอ
+มอบความรักแด่เธอ ผู้เป็นหนึ่งเดียวที่ฉันต้องการ
+
+~
+
+  บทหนึ่งบทเล่าขาน ตำนานมา
+ปากต่อปากก็ว่า ช่างตรึงตรา
+มิได้เจือสิ่งซึ่งเสแสร้งมายา
+ถ้อยคำว่ารัก มิใช่แค่วาจา
+
+  มิได้มุสาวาทาที่ลั่นวาจาว่ารักออกไป
+คำสัญญาที่เอ่ยออกมานั้นแล่นจากใจ
+เพียงพริบตาที่ขานนามมาเจ้าอยู่แห่งใด
+จะไกลลับฟ้าหรืออยู่แห่งไหน
+ข้าจะตามหาไม่ว่าอย่างไร
+
+  จากคำลือเล่าขานมาแต่โบร่ำโบราณ
+ทั้งสองได้พบพาน กระทั่งกลายเป็นตำนาน....กลายเป็นตำนาน
+
+  แม้ฝุ่นหรือเถ้าธุรีจะร่วงโรย ทับถมใส่
+ผ่านสายลมโชกโชนและฝนโปรย ทุกครั้งไป
+แต่เธอเชื่อหรือไม่ ว่าหน้ากระดาษที่เธอและฉันเคยเขียนเอาไว้ มิแปรเปลี่ยนเลย
+
+  กาลครั้งหนึ่ง หนังสือเล่มหนึ่งมีชื่อว่าฉัน
+บทหนึ่งบทในนั้น มีผู้ประพันธ์คือฉันและเธอ
+เนื้อความข้างในได้กล่าว ว่าข้าพเจ้าจะรักเสมอ
+มอบความรักแด่เธอ ผู้เป็นหนึ่งเดียวที่ฉันต้องการ
+
+  ขอแค่เพียงเจ้านั้น คนอื่นไม่สำคัญหรอก ไม่หรอกเธอเอ๋ย
+  และขอให้เป็นตัวฉันเอง ที่ได้เป็นคนที่บรรเลง
+ให้เธอนั้นได้ฟัง
+
+  ข้าขอภาวนาให้ดาวบนฟ้าจงได้รับฟัง
+ให้ข้าได้เห็นรอยยิ้มเปื้อนหน้าเจ้าในทุกวัน
+ให้ข้าได้อยู่เคียงข้างกายเมื่อเจ็บเมื่อไข้
+ให้เราทั้งสองอย่าได้มีใครมาพรากเลย
+
+  แม้ฝุ่นหรือเถ้าธุรีจะร่วงโรย ทับถมใส่
+ผ่านสายลมโชกโชนและฝนโปรย ทุกครั้งไป
+แต่เธอเชื่อหรือไม่ ว่าหน้ากระดาษที่เธอและฉันเคยเขียนเอาไว้ มิแปรเปลี่ยนเลย
+
+  กาลครั้งหนึ่ง หนังสือเล่มหนึ่งมีชื่อว่าฉัน
+บทหนึ่งบทในนั้น มีผู้ประพันธ์คือฉันและเธอ
+เนื้อความข้างในได้กล่าว ว่าข้าพเจ้าจะรักเสมอ
+มอบความรักแด่เธอ ผู้เป็นหนึ่งเดียวที่ฉันต้องการ
+
+  ไม่ให้เจ้ากลัว จะป้องกันภัย
+แม้ตัวต้องตาย ก็ไม่เป็นไร
+ขอเพียงเจ้าอยู่...ขอเพียงเจ้าอยู่
+
+  เจ้าไม่ต้องกลัว หากเมื่อวันใด
+แม้กายาข้า จะแหลกตายไป
+ข้าอยู่ตรงนี้
+
+  กาลครั้งหนึ่ง หนังสือเล่มหนึ่งมีชื่อว่าฉัน
+บทหนึ่งบทในนั้น มีผู้ประพันธ์คือฉันและเธอ
+เนื้อความข้างในได้กล่าว ว่าข้าพเจ้าจะรักเสมอ
+มอบความรักแด่เธอ ผู้เป็นหนึ่งเดียวที่ฉันต้องกา

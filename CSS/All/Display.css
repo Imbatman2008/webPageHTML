@@ -1,0 +1,71 @@
+* {
+    font-family: Arial;
+}
+
+div {
+    background-color: red;
+    color: white; 
+    /* visibility: hidden; ทำให้ Object หายและทิ้งช่องว่างเอาไว้ */
+    /* max-width: 500px; นิยมใช้ในการทำ responsive * max-width จะทำการกำหนดขนาดสูงสุดของ ความกว้าง และ ความสูง (max-height)
+    และ ยังมี min-width และ min-height: ขนาดความเลืกน้อยสุด และ เยอะสุด
+    */
+}
+
+span {
+    background-color: blue;
+    color: white;
+}
+
+.Box-Pernet {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 30px;
+    position: relative;
+    /* position: fixed; ทำการยึดอยู่กับที่ */
+    left: 200px;
+}
+
+.Box-Child {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 30px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.Box1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 30px;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    z-index: -1;
+}
+
+.Box2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue; 
+    border-radius: 30px;
+    text-align: center;
+}
+
+.Box-shadow {
+    margin-top: 30px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Box-shadow > h1 {
+    color: black;
+    margin: 30px;
+    text-align: center;
+}

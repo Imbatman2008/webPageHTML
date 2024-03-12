@@ -1,0 +1,40 @@
+.Dark {
+    border: 1px solid #ccc;
+    background-color: black;
+    color: white;
+}
+
+.container-box {
+    display: flex;
+}
+
+.box {
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#--menu--select:focus {
+    border: none;
+    text-decoration: none;
+}
+
+
+.model-box {
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* .model-box:hover {
+    text-indent: 1rem;
+} */
+
+.indent:hover {
+    text-indent: 1rem;
+}

@@ -1,0 +1,5 @@
+ShotHand {
+    margin: 1px 1px 1px 1px; /* บน ขวา ล่าง ช้าย*/
+    margin: 1px 1px 1px; /* บน ช้าย และ ขวา ล่าง */
+    margin: 1px 1px; /* บน และ ล่าง ช้าย และ ขวา*/
+}

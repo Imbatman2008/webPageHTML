@@ -1,0 +1,39 @@
+#header {
+    border: 1px solid red;
+}
+
+.header {
+    border: 1px solid blue;
+}
+
+.nav-bar {
+    border: 1px solid green;
+}
+
+.brand {
+    border: 1px solid purple;
+}
+
+a {
+    border: 1px solid red;
+}
+
+.nav-list {
+    border: 1px solid red;
+}
+
+.hamburger {
+    border: 1px solid #000;
+}
+
+.bar {
+    border: 1px solid salmon;
+}
+
+ul {
+    border: 1px solid black;
+}
+
+li {
+    border: 1px solid aqua;
+}

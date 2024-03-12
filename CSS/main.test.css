@@ -1,0 +1,27 @@
+.border-left > p {
+    border-left: 4px solid red;
+    padding-left: 4px;
+}
+
+.border-bottom > p {
+    border-bottom: 4px solid blue;
+    width: 500px;
+}
+
+.i-center {
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+    margin: 2rem 0;
+}
+
+.Box {
+    border: 1px solid red;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: right;
+}

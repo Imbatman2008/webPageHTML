@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.box-contents {
+    padding: 3rem;
+    background-color: orange;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.box-1 {
+    grid-column: 1/span 1;
+    grid-row: 1/span 3;
+}
+
+.box-6 {
+    grid-column: 2/span 2;
+}
+
+.box-8 {
+    grid-column: 1/span 3;
+}
